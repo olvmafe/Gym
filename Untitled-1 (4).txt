@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Document</title>
+            </head>
+            <body>
+            <h1>Smartfer</h1>
+            <p>A Smartfer é uma academia que possibilita diversas atividades, podemos encontrar musculação, diversas aulas de dança e lutas. </p>
+            <p>Venha conhecer o nosso espaço e melhorar sua saúde conosco.</p>
+            <h2><strong>PROFESSORES E PERSONAIS</strong></h2>
+            <p>Os professores e os personais irão te auxiliar da melhor maneira, atendendo as suas dúvidas e estando presente.</p>
+            </body>
+<img src="images.jpeg"> 
+            </html>
